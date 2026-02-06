@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am new to GitHub and to programming.  I am currenly trying to learn Python.  Everything feels overwhelming right now 😊.  Wish me luck!
 <!--
 **leebrianm/leebrianm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
